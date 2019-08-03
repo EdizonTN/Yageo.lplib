@@ -1,0 +1,11 @@
+(librepcb_library e24772b3-7c5e-4447-9aba-1c34685d015b
+ (name "Yageo")
+ (description "YAGEO Corporation")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-08-03T18:52:42Z)
+ (deprecated false)
+ (url "")
+ (dependency 42d8d2f4-d524-4472-853b-b434e3f76b71)
+)
