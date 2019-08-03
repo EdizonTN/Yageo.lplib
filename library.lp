@@ -6,6 +6,6 @@
  (version "0.1")
  (created 2019-08-03T18:52:42Z)
  (deprecated false)
- (url "")
+ (url "https://github.com/EdizonTN/Yageo.lplib")
  (dependency 42d8d2f4-d524-4472-853b-b434e3f76b71)
 )
