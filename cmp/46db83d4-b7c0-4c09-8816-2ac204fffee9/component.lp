@@ -1,5 +1,5 @@
 (librepcb_component 46db83d4-b7c0-4c09-8816-2ac204fffee9
- (name "1.2p, 50V, NPO, 0805")
+ (name "CAPC, 1.2p, 50V, NPO, 0805")
  (description "50V, NPO, ±25%, 0805, YAGEO")
  (keywords "")
  (author "EdizonTN")

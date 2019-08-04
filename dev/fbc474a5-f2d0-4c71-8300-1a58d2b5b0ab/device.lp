@@ -1,5 +1,5 @@
 (librepcb_device fbc474a5-f2d0-4c71-8300-1a58d2b5b0ab
- (name "CC0805KRX7R9152")
+ (name "CC0805KRX7R9BB152")
  (description "50V, X7R, ±10%, 0805, YAGEO")
  (keywords "")
  (author "EdizonTN")

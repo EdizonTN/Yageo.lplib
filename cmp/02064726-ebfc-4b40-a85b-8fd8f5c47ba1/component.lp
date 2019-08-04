@@ -1,5 +1,5 @@
 (librepcb_component 02064726-ebfc-4b40-a85b-8fd8f5c47ba1
- (name "1n, 50V, X7R, 0805")
+ (name "CAPC, 1n, 50V, X7R, 0805")
  (description "50V, X7R, ±10%, 0805, YAGEO")
  (keywords "")
  (author "EdizonTN")
