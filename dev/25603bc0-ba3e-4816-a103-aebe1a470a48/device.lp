@@ -9,6 +9,6 @@
  (category ab32ba2b-d5d5-459b-a777-f5f71d5802e4)
  (component 69908877-b4f4-4ead-921d-59002ef2f0f1)
  (package 7ac925e8-f690-4050-b2e7-263847bf6eca)
- (pad 10797f2f-2747-466d-8a1f-fc64e9b9549c (signal none))
- (pad 6dab2805-35a7-4883-9fd7-4039edf8ffe2 (signal none))
+ (pad 10797f2f-2747-466d-8a1f-fc64e9b9549c (signal a0e11621-3280-4d74-ad4d-58846031dfb0))
+ (pad 6dab2805-35a7-4883-9fd7-4039edf8ffe2 (signal 545c9d24-3081-41c9-acc0-70c20be48347))
 )
