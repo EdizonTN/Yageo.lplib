@@ -14,6 +14,7 @@
  (attribute "DATASHEET" (type string) (unit none) (value "http://datasheet.octopart.com/CC0603JRNPO9BN220-Yageo-datasheet-8555986.pdf"))
  (attribute "ORDERCODE_MOUSER" (type string) (unit none) (value "603-CC805JRNPO9BN821"))
  (attribute "ORDERCODE_FARNELL" (type string) (unit none) (value "718555"))
+ (attribute "VALUE" (type capacitance) (unit picofarad) (value "820"))
  (signal f181b0c9-aff8-4e5e-84c0-324b141dd884 (name "1") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )

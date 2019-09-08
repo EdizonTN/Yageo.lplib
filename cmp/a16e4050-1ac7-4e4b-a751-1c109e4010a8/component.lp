@@ -12,6 +12,7 @@
  (prefix "R")
  (attribute "MPN" (type string) (unit none) (value "RC0805FR-0710RL"))
  (attribute "DATASHEET" (type string) (unit none) (value "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L-3.pdf"))
+ (attribute "VALUE" (type resistance) (unit ohm) (value "20"))
  (signal b44c78fd-828f-4678-b3cf-ed3ae8cdf256 (name "1") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )

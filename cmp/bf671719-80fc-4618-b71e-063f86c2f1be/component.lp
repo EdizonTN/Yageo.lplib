@@ -8,7 +8,7 @@
  (deprecated false)
  (category 1039f038-20a6-4bfe-89c1-99f34fbb45bd)
  (schematic_only false)
- (default_value "160k")
+ (default_value "{{VALUE}}")
  (prefix "R")
  (attribute "MPN" (type string) (unit none) (value "RC0805FR-07100RL"))
  (attribute "DATASHEET" (type string) (unit none) (value "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L-3.pdf"))
