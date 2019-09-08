@@ -1,6 +1,6 @@
 (librepcb_component f6536469-5995-450a-ac04-90d143adc16f
  (name "CAPC, 3.9p, 50V, NPO, 0805")
- (description "50V, NPO, ±0.25%, 0805, YAGEO")
+ (description "50V, NPO, ±0.25%, 0805, YAGEO\nCC0805CRNPO9BN3R9")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
@@ -10,9 +10,9 @@
  (schematic_only false)
  (default_value "3.9p")
  (prefix "C")
+ (attribute "MPN" (type string) (unit none) (value "CC0805CRNPO9BN3R9"))
  (attribute "DATASHEET" (type string) (unit none) (value "http://datasheet.octopart.com/CC0603JRNPO9BN220-Yageo-datasheet-8555986.pdf"))
  (attribute "ORDERCODE_MOUSER" (type string) (unit none) (value "603-CC805CRNPO9BN3R9"))
- (attribute "MPN" (type string) (unit none) (value "CC0805CRNPO9BN3R9"))
  (signal 518843e3-09fb-42fe-842f-8c598fdf973a (name "1") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )

@@ -1,6 +1,6 @@
 (librepcb_library e24772b3-7c5e-4447-9aba-1c34685d015b
  (name "Yageo")
- (description "YAGEO Corporation")
+ (description "This is a unnoficial testing LibrePCB library. \nYAGEO Corporation. Chip ceramic and chip resistors 0805 size. Mostly with order code from various suppliers.")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")

@@ -1,6 +1,6 @@
 (librepcb_component 9aab0fcf-eb95-4cf6-a422-c13ccdb5c734
  (name "RESC, 16/0.125W/1%, 0805")
- (description "0.125W, 150V, 5%, -55 to 155C, General purpose")
+ (description "0.125W, 150V, 5%, -55 to 155C, General purpose\nRC0805FR-0710RL")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
@@ -10,8 +10,8 @@
  (schematic_only false)
  (default_value "16")
  (prefix "R")
- (attribute "DATASHEET" (type string) (unit none) (value "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L-3.pdf"))
  (attribute "MPN" (type string) (unit none) (value "RC0805FR-0710RL"))
+ (attribute "DATASHEET" (type string) (unit none) (value "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L-3.pdf"))
  (signal 6cb151b5-3e32-4b1c-9fc6-5fc0bb51bc41 (name "1") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )

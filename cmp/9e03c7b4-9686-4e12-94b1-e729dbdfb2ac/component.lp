@@ -1,6 +1,6 @@
 (librepcb_component 9e03c7b4-9686-4e12-94b1-e729dbdfb2ac
  (name "CAPC, 47p, 50V, NPO, 0805")
- (description "50V, NPO, ±5%, 0805, YAGEO")
+ (description "50V, NPO, ±5%, 0805, YAGEO\nCC0805JRNPO9BN470")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
@@ -10,8 +10,8 @@
  (schematic_only false)
  (default_value "47p")
  (prefix "C")
- (attribute "DATASHEET" (type string) (unit none) (value "http://datasheet.octopart.com/CC0603JRNPO9BN220-Yageo-datasheet-8555986.pdf"))
  (attribute "MPN" (type string) (unit none) (value "CC0805JRNPO9BN470"))
+ (attribute "DATASHEET" (type string) (unit none) (value "http://datasheet.octopart.com/CC0603JRNPO9BN220-Yageo-datasheet-8555986.pdf"))
  (attribute "ORDERCODE_TME" (type string) (unit none) (value "CC0805JRNPO9470"))
  (attribute "ORDERCODE_MOUSER" (type string) (unit none) (value "603-CC805JRNPO9BN470"))
  (signal 9ed24082-f299-47bb-a28c-8a3325dacc49 (name "1") (role passive)

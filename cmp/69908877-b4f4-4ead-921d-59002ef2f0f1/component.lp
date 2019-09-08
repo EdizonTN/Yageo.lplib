@@ -1,6 +1,6 @@
 (librepcb_component 69908877-b4f4-4ead-921d-59002ef2f0f1
  (name "CAPC, 6.8p, 50V, NPO, 0805")
- (description "50V, NPO, ±0.25%, 0805, YAGEO")
+ (description "50V, NPO, ±0.25%, 0805, YAGEO\nCC0805CRNPO9BN6R8")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
@@ -10,8 +10,8 @@
  (schematic_only false)
  (default_value "6.8p")
  (prefix "C")
- (attribute "DATASHEET" (type string) (unit none) (value "http://datasheet.octopart.com/CC0603JRNPO9BN220-Yageo-datasheet-8555986.pdf"))
  (attribute "MPN" (type string) (unit none) (value "CC0805CRNPO9BN6R8"))
+ (attribute "DATASHEET" (type string) (unit none) (value "http://datasheet.octopart.com/CC0603JRNPO9BN220-Yageo-datasheet-8555986.pdf"))
  (attribute "ORDERCODE_TME" (type string) (unit none) (value "CC0805CRNPO96R8"))
  (signal a0e11621-3280-4d74-ad4d-58846031dfb0 (name "1") (role passive)
   (required true) (negated false) (clock false) (forced_net "")

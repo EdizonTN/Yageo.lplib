@@ -1,6 +1,6 @@
 (librepcb_component a5f027e4-8548-4fac-b31e-ba230cb4f33d
  (name "CAPC, 330p, 50V, X7R, 0805")
- (description "50V, X7R, ±10%, 0805, YAGEO")
+ (description "50V, X7R, ±10%, 0805, YAGEO\nCC0805KRX7R9BB331")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
@@ -10,8 +10,8 @@
  (schematic_only false)
  (default_value "330p")
  (prefix "C")
- (attribute "DATASHEET" (type string) (unit none) (value "http://www.sos.sk/a_info/resource/a/A20_kondenzatory/X7R_6,3-50V.pdf"))
  (attribute "MPN" (type string) (unit none) (value "CC0805KRX7R9BB331"))
+ (attribute "DATASHEET" (type string) (unit none) (value "http://www.sos.sk/a_info/resource/a/A20_kondenzatory/X7R_6,3-50V.pdf"))
  (attribute "ORDERCODE_MOUSER" (type string) (unit none) (value "603-CC805KRX7R9BB331"))
  (attribute "ORDERCODE_FARNELL" (type string) (unit none) (value "3019846"))
  (signal e2bf9f97-ceaf-4bcc-8d51-d386974ca8c2 (name "1") (role passive)
