@@ -3,10 +3,19 @@
 ## Description
 
 This is an unofficial testing [LibrePCB](https://librepcb.org) library. 
- Chip ceramic and chip resistors 0805 size. Mostly with order code from various suppliers.
- 
-Total: 63 devices
+TE Connectivity electromechanical with order code of TME.EU.
+
+Total: 137 devices
+
+
+## How to add library to your LibrePCB
+see [wiki](../../wiki/)
+
+
+## LibrePCB "URL to ZIP file"
+https://github.com/EdizonTN/Yageo.lplib/archive/master.zip
+
 
 ## License
 
-No license set.
+Creative Commons (CC0-1.0). For the license text, see [LICENSE.txt](LICENSE.txt).
